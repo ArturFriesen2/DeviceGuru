@@ -1,11 +1,19 @@
 //
 //  DeviceGuru.h
+//  DeviceGuru
 //
-//  Created by Inder Kumar Rathore on 06/02/15.
-//  Copyright (c) 2015. All rights reserved.
+//  Created by Friesen, Artur on 22.02.17.
+//  Copyright © 2017 ArturFriesen. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
+//! Project version number for DeviceGuru.
 FOUNDATION_EXPORT double DeviceGuruVersionNumber;
+
+//! Project version string for DeviceGuru.
 FOUNDATION_EXPORT const unsigned char DeviceGuruVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <DeviceGuru/PublicHeader.h>
+
+
